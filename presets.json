@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "presets": [
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "hint": "googlevideo · ytimg · youtu.be",
+      "color": "#FF0033",
+      "letter": "▶",
+      "policy": "proxy",
+      "domains": [
+        "youtube.com",
+        "googlevideo.com",
+        "ytimg.com",
+        "youtu.be",
+        "yt3.ggpht.com"
+      ]
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "hint": "instagram.com · cdninstagram",
+      "color": "#E1306C",
+      "letter": "ig",
+      "policy": "proxy",
+      "domains": [
+        "instagram.com",
+        "cdninstagram.com"
+      ]
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "hint": "telegram.org · t.me",
+      "color": "#2AABEE",
+      "letter": "tg",
+      "policy": "proxy",
+      "domains": [
+        "telegram.org",
+        "t.me",
+        "telegram.me"
+      ]
+    },
+    {
+      "id": "runet",
+      "name": "RuNet",
+      "hint": "VK · Яндекс · госсервисы",
+      "color": "#E04040",
+      "letter": "ru",
+      "policy": "direct",
+      "domains": [
+        "vk.com",
+        "ok.ru",
+        "yandex.ru",
+        "yandex.net",
+        "mail.ru",
+        "gosuslugi.ru",
+        "sberbank.ru",
+        "tbank.ru",
+        "raiffeisen.ru"
+      ]
+    },
+    {
+      "id": "neuro",
+      "name": "AI / Neuro",
+      "hint": "ChatGPT · Claude · Gemini",
+      "color": "#8b5cf6",
+      "letter": "ai",
+      "policy": "proxy",
+      "domains": [
+        "openai.com",
+        "claude.ai",
+        "anthropic.com",
+        "gemini.google.com"
+      ]
+    }
+  ]
+}
