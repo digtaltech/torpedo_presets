@@ -10,68 +10,64 @@
       "policy": "proxy",
       "domains": [
         "youtube.com",
+        "youtu.be",
+        "yt.be",
         "googlevideo.com",
         "ytimg.com",
-        "youtu.be",
-        "yt3.ggpht.com"
+        "yt3.ggpht.com",
+        "youtube-nocookie.com",
+        "youtubei.googleapis.com"
       ]
     },
     {
       "id": "instagram",
       "name": "Instagram",
-      "hint": "instagram.com · cdninstagram",
+      "hint": "instagram.com · cdninstagram · fbcdn",
       "color": "#E1306C",
       "letter": "ig",
       "policy": "proxy",
       "domains": [
         "instagram.com",
-        "cdninstagram.com"
+        "cdninstagram.com",
+        "fbcdn.net"
       ]
     },
     {
       "id": "telegram",
       "name": "Telegram",
-      "hint": "telegram.org · t.me",
+      "hint": "telegram.org · t.me · telegra.ph",
       "color": "#2AABEE",
       "letter": "tg",
       "policy": "proxy",
       "domains": [
         "telegram.org",
+        "telegram.me",
         "t.me",
-        "telegram.me"
-      ]
-    },
-    {
-      "id": "runet",
-      "name": "RuNet",
-      "hint": "VK · Яндекс · госсервисы",
-      "color": "#E04040",
-      "letter": "ru",
-      "policy": "direct",
-      "domains": [
-        "vk.com",
-        "ok.ru",
-        "yandex.ru",
-        "yandex.net",
-        "mail.ru",
-        "gosuslugi.ru",
-        "sberbank.ru",
-        "tbank.ru",
-        "raiffeisen.ru"
+        "telegra.ph",
+        "tg.dev",
+        "telesco.pe",
+        "telegram.dog",
+        "tdesktop.com"
       ]
     },
     {
       "id": "neuro",
       "name": "AI / Neuro",
-      "hint": "ChatGPT · Claude · Gemini",
+      "hint": "ChatGPT · Claude · Gemini · Grok",
       "color": "#8b5cf6",
       "letter": "ai",
       "policy": "proxy",
       "domains": [
         "openai.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "chatgpt.com",
+        "sora.com",
         "claude.ai",
         "anthropic.com",
-        "gemini.google.com"
+        "gemini.google.com",
+        "grok.com",
+        "x.ai"
       ]
     }
   ]
