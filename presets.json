@@ -48,7 +48,8 @@
         "telesco.pe",
         "telegram.dog",
         "tdesktop.com"
-      ]
+      ],
+      "processes": ["Telegram.exe"]
     },
     {
       "id": "neuro",
