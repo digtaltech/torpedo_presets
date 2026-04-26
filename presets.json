@@ -70,6 +70,20 @@
         "grok.com",
         "x.ai"
       ]
+    },
+    {
+      "id": "rutracker",
+      "name": "Rutracker",
+      "hint": "rutracker.org · rutracker.net",
+      "color": "#F47700",
+      "letter": "rt",
+      "policy": "proxy",
+      "domains": [
+        "rutracker.org",
+        "rutracker.net",
+        "rutracker.cc",
+        "rutracker.nl"
+      ]
     }
   ]
 }
