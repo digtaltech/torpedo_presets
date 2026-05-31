@@ -20,6 +20,41 @@
       ]
     },
     {
+      "id": "discord",
+      "name": "Discord",
+      "hint": "discord.com · discord.gg · discordapp · discord media",
+      "color": "#5865F2",
+      "letter": "dc",
+      "policy": "proxy",
+      "domains": [
+        "discord.com",
+        "discord.gg",
+        "discord.media",
+        "discordapp.com",
+        "discordapp.net",
+        "discordcdn.com",
+        "discordstatus.com",
+        "discord.co",
+        "discord.gift",
+        "discord.new",
+        "discord.dev",
+        "discord.tools",
+        "discordmerch.com",
+        "dis.gd",
+        "cdn.discordapp.com",
+        "media.discordapp.net",
+        "images-ext-1.discordapp.net",
+        "images-ext-2.discordapp.net",
+        "gateway.discord.gg"
+      ],
+      "processes": [
+        "Discord.exe",
+        "DiscordCanary.exe",
+        "DiscordPTB.exe",
+        "Update.exe"
+      ]
+    },
+    {
       "id": "instagram",
       "name": "Instagram",
       "hint": "instagram.com · cdninstagram · fbcdn",
@@ -49,7 +84,9 @@
         "telegram.dog",
         "tdesktop.com"
       ],
-      "processes": ["Telegram.exe"]
+      "processes": [
+        "Telegram.exe"
+      ]
     },
     {
       "id": "neuro",
